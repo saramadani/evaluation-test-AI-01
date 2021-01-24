@@ -13,27 +13,27 @@ Based on the different properties of mushroom, we are going to predict whether a
 1. Cap-Shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
 2. Cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
 3. Cap-color: brown=n,buff=b,cinnamon=c,gray=g,green=r,pink=p,purple=u,red=e,white=w,yellow=y
-Bruises: bruises=t,no=f
-Odor: almond=a,anise=l,creosote=c,fishy=y,foul=f,musty=m,none=n,pungent=p,spicy=s
-Gill-attachment: attached=a,descending=d,free=f,notched=n
-Gill-spacing:close=c,crowded=w,distant=d
-Gill-size:broad=b,narrow=n
-Gill-color: broad=b,narrow=n
-Gill-color: broad=b,narrow=n
-Stalk-shape: enlarging=e,tapering=t
-Stalk-root: bulbous=b,club=c,cup=u,equal=e,rhizomorphs=z,rooted=r,missing=?
-Stalk-surface-above-ring: fibrous=f,scaly=y,silky=k,smooth=s
-Stalk-surface-below-ring: fibrous=f,scaly=y,silky=k,smooth=s
-Stalk-color-above-ring: brown=n,buff=b,cinnamon=c,gray=g,orange=o,pink=p,red=e,white=w,yellow=y
-Stalk-color-below-ring: brown=n,buff=b,cinnamon=c,gray=g,orange=o,pink=p,red=e,white=w,yellow=y
-Veil-type: partial=p,universal=u
-Veil-color:brown=n,orange=o,white=w,yellow=y
-Ring-number: none=n,one=o,two=t
-Ring-type: cobwebby=c,evanescent=e,flaring=f,large=l,none=n,pendant=p,sheathing=s,zone=z
-Spore-print-color: black=k,brown=n,buff=b,chocolate=h,green=r,orange=o,purple=u,white=w,yellow=y
-Population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
-Habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
-class:poisonous=p, edible=e
+4. Bruises: bruises=t,no=f
+5. Odor: almond=a,anise=l,creosote=c,fishy=y,foul=f,musty=m,none=n,pungent=p,spicy=s
+6. Gill-attachment: attached=a,descending=d,free=f,notched=n
+7. Gill-spacing:close=c,crowded=w,distant=d
+8. Gill-size:broad=b,narrow=n
+9. Gill-color: broad=b,narrow=n
+10. Gill-color: broad=b,narrow=n
+11. Stalk-shape: enlarging=e,tapering=t
+12. Stalk-root: bulbous=b,club=c,cup=u,equal=e,rhizomorphs=z,rooted=r,missing=?
+13. Stalk-surface-above-ring: fibrous=f,scaly=y,silky=k,smooth=s
+14. Stalk-surface-below-ring: fibrous=f,scaly=y,silky=k,smooth=s
+15. Stalk-color-above-ring: brown=n,buff=b,cinnamon=c,gray=g,orange=o,pink=p,red=e,white=w,yellow=y
+16. Stalk-color-below-ring: brown=n,buff=b,cinnamon=c,gray=g,orange=o,pink=p,red=e,white=w,yellow=y
+17. Veil-type: partial=p,universal=u
+18. Veil-color:brown=n,orange=o,white=w,yellow=y
+19. Ring-number: none=n,one=o,two=t
+20. Ring-type: cobwebby=c,evanescent=e,flaring=f,large=l,none=n,pendant=p,sheathing=s,zone=z
+21. Spore-print-color: black=k,brown=n,buff=b,chocolate=h,green=r,orange=o,purple=u,white=w,yellow=y
+22. Population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
+23. Habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
+24. class:poisonous=p, edible=e
 
 * Summarize the dataset:(check the dimension of your data, statistical summary of all attributes, class distribution...)
 * Prepare your data(check missing values, apply transformation if it's needed)
