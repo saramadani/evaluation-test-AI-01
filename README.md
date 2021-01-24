@@ -35,12 +35,12 @@ Based on the different properties of mushroom, we are going to predict whether a
 23. Habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 24. class:poisonous=p, edible=e
 
-* Summarize the dataset:(check the dimension of your data, statistical summary of all attributes, class distribution...)
-* Prepare your data(check missing values, apply transformation if it's needed)
-* Make some visualizations(both univariate and multivariate plots)
+* Summarize the dataset (check the dimension of your data, statistical summary of all attributes, class distribution...).
+* Prepare your data(check missing values, apply transformations if it's needed).
+* Make some visualizations(both univariate and multivariate plots).
 * Implement some models(more than three algorithms) and estimate their accuracy on unseen data. (Explain minutely the steps of models implementation)
 * Plot the ROC curves of each model in one graph to resume all True Positive rates of all models.
 * Conclude.
 
-Don't forget to ensure good code quality(comment your code, respect indentation, make your code clear and coherent..)
+**Don't forget to ensure good code quality(comment your code, respect indentation, make your code clear and coherent..)
 
