@@ -9,7 +9,6 @@ Based on the different properties of mushroom, we are going to predict whether a
 
 * Before strating check your python version( show us the code that allows you to check your python version)
 * Load the dataset from the csv file( To understand more the dataset, let's discover the description of our features and its modalities:
-
 1. Cap-Shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
 2. Cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
 3. Cap-color: brown=n,buff=b,cinnamon=c,gray=g,green=r,pink=p,purple=u,red=e,white=w,yellow=y
@@ -38,8 +37,8 @@ Based on the different properties of mushroom, we are going to predict whether a
 * Summarize the dataset (check the dimension of your data, statistical summary of all attributes, class distribution...).
 * Prepare your data(check missing values, apply transformations if it's needed).
 * Make some visualizations(both univariate and multivariate plots).
-* Implement some models(more than three algorithms) and estimate their accuracy on unseen data. (Explain minutely the steps of models implementation)
-* Plot the ROC curves of each model in one graph to resume all True Positive rates of all models.
+* Implement some models(**more than three** algorithms) and estimate their accuracy on unseen data. (Explain minutely the steps of models implementation)
+* Plot the ROC curves of each model in **one plot** to resume all True Positive rates of all models.
 * Conclude.
 
 **Don't forget to ensure good code quality(comment your code, respect indentation, make your code clear and coherent..)**
