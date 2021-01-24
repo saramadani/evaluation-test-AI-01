@@ -10,7 +10,7 @@ Based on the different properties of mushroom, we are going to predict whether a
 * Before strating check your python version( show us the code that allows you to check your python version)
 * Load the dataset from the csv file( To understand more the dataset, let's discover the description of our features and its modalities:
 
-*** Cap-Shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
+** Cap-Shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
 Cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
 Cap-color: brown=n,buff=b,cinnamon=c,gray=g,green=r,pink=p,purple=u,red=e,white=w,yellow=y
 Bruises: bruises=t,no=f
