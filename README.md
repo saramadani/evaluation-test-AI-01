@@ -42,5 +42,5 @@ Based on the different properties of mushroom, we are going to predict whether a
 * Plot the ROC curves of each model in one graph to resume all True Positive rates of all models.
 * Conclude.
 
-**Don't forget to ensure good code quality(comment your code, respect indentation, make your code clear and coherent..)
+**Don't forget to ensure good code quality(comment your code, respect indentation, make your code clear and coherent..)**
 
